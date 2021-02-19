@@ -7,8 +7,12 @@ header {
   background-size: cover;
   color: white;
   padding: 60px 10%;
+  box-sizing: border-box;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .container {
   max-width: 600px;
-  margin: auto;
 }
