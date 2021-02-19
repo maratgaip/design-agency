@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+header {
+  background-image: url("https://static.pexels.com/photos/248515/pexels-photo-248515.png");
+  background-size: cover;
+  color: white;
+  padding: 60px 10%;
+}
+.container {
+  max-width: 600px;
+  margin: auto;
+}
